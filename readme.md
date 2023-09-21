@@ -6,6 +6,7 @@ Loggbok
 * Vad var svårt? 
 * Hur löste du svårgiheterna?
 * Länka till källor du använt dig av, t.ex. Stackoverflow, youtube
+* Försök att sammanfatta vad du har lärt dig.
 
 23 09 18
 -------------
@@ -48,6 +49,6 @@ Exempel i  Python-konsollen:
     <class 'int'>
 
     Datatyper: int, float, str och bool
-    
+
 
 
